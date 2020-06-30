@@ -7,8 +7,8 @@
 // Location for graphs to be saved
 cd "C:\Users\spcor\Downloads"
 
-*ssc install tsegen, replace
-*ssc install g538schemes, replace all
+ssc install tsegen, replace
+ssc install g538schemes, replace all
 
 // Choose a graph: US, state, or county
 local graphus 0
